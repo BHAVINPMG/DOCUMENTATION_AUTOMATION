@@ -1,0 +1,48 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Output and generated files (optional - remove if you want to track these)
+# Documents/
+# Output/
+
+# Large media files (optional - remove if you want to track these)
+# Assets/*.png
+# Assets/*.pdf
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add any JavaScript tools later)
+node_modules/
+
+# Python (if you add any Python tools later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
