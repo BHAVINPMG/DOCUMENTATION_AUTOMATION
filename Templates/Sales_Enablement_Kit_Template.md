@@ -13,6 +13,29 @@
 
 ---
 
+# 📋 Executive Summary
+
+## Quick Overview
+[2-3 sentence summary of the module's value for the target industry and region]
+
+## Key Benefits
+1. **[Benefit 1]**: [Primary benefit with industry context]
+2. **[Benefit 2]**: [Secondary benefit with regional relevance]
+3. **[Benefit 3]**: [Tertiary benefit with business impact]
+
+## Target Audience
+- **Primary Personas**: [Key decision makers and users]
+- **Industry Focus**: [Target industry with regional considerations]
+- **Use Cases**: [Main use cases for this industry/region combination]
+
+## ROI Highlight
+[Key return on investment metric with quantified impact]
+
+## Competitive Advantage
+[Main differentiator vs. competitors with industry positioning]
+
+---
+
 # 📖 Module Overview: What is [FEATURE]?
 
 ## Definition and Purpose
@@ -117,6 +140,38 @@
 - **Scenario 3**: [Technical scenario with performance benefits]
 - **Scenario 4**: [Compliance scenario with regulatory context]
 - **Scenario 5**: [ROI scenario with quantified outcomes]
+
+## Key Demo Highlights to Emphasize
+
+### 1. Visual Impact
+**What to Show**: [Compelling visual elements like coloring, alerts, dashboards]
+**Demo Script**: "See how [specific visual element] immediately draws attention to [problem/issue]. This visual pop is compelling because [explanation]."
+**Industry Context**: [How this visual impact addresses industry-specific challenges]
+
+### 2. Timeline/Historical Analysis
+**What to Show**: [Time-based capabilities, historical playback, trend analysis]
+**Demo Script**: "Let's rewind to [time period]... notice how [change/pattern]. You can literally see [historical insight]."
+**Industry Context**: [How historical analysis helps with industry-specific decision making]
+
+### 3. Alert Simulation
+**What to Show**: [Real-time or pre-recorded alert scenarios, policy violations]
+**Demo Script**: "Here's an alert we received - '[Alert Description]'. Clicking it takes us to [specific view] and it's pinpointing [problem location]."
+**Industry Context**: [How alerts address industry-specific operational challenges]
+
+### 4. Integration Points
+**What to Show**: [Unified platform capabilities, cross-module navigation]
+**Demo Script**: "From this [view/alert], I can pivot to see [related information] to show the power of having [feature] within Motadata vs. a standalone tool."
+**Industry Context**: [How integration benefits the target industry's workflow]
+
+### 5. Use Case Tie-back
+**What to Show**: [Real business scenario connection, problem resolution]
+**Demo Script**: "In a real scenario, what we just saw could mean the difference between [time period] and [time period] - because with [feature], we [specific outcome]."
+**Industry Context**: [How this directly impacts the target industry's operations]
+
+### 6. Problem Resolution
+**What to Show**: [Issue identification, root cause analysis, resolution process]
+**Demo Script**: "Now let's drill down to see [specific details] and understand [root cause]. This shows how [feature] enables [resolution process]."
+**Industry Context**: [How problem resolution capabilities benefit the target industry]
 
 ## Demo Pro Tips
 - [Best practice 1 with industry context]
