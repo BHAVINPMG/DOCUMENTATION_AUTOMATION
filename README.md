@@ -16,6 +16,7 @@ This project automates the creation of **highly targeted, industry-specific sale
 - **🏢 Industry-Specific**: Tailored for BFSI, Healthcare, Education, Manufacturing, Telco, and more
 - **🤖 AI-Powered**: Automatically generates customized content based on persona analysis
 - **📊 Multiple Formats**: Sales Enablement Kits, Case Studies, Solution Briefs, ROI Calculators, and more
+- **📋 Rule-Based**: Comprehensive rules ensure consistent, professional quality
 
 ## 🏗️ **Project Architecture**
 
@@ -28,7 +29,8 @@ DOCUMENTATION AUTOMATION/
 │
 ├── 📋 Reference/              # AI reference materials
 │   ├── AI_Reference_Guide.md  # AI assistant guide
-│   └── Persona_Mapping.md     # All persona combinations
+│   ├── Persona_Mapping.md     # All persona combinations
+│   └── Sales_Enablement_Kit_Rules.md  # Master rules for SEK generation
 │
 ├── 🎨 Templates/              # Document templates
 │   └── Sales_Enablement_Kit_Template.md
@@ -39,8 +41,14 @@ DOCUMENTATION AUTOMATION/
 │   └── Regional Personas/     # India, MiddleEast, SouthAsia, Africa
 │
 ├── 📊 Documents/              # Generated documents
+│   └── Sales_Enablement_Kits/ # Sales Enablement Kits by feature
+│
 ├── 📤 Output/                 # Final documents ready for use
-└── 🖼️ Assets/                 # Media files and examples
+├── 🖼️ Assets/                 # Media files and examples
+├── README.md                   # This file (main entry point)
+├── LICENSE                     # MIT License
+├── .gitignore                 # Git ignore rules
+└── CONTRIBUTING.md            # Contribution guidelines
 ```
 
 ## 🎭 **Persona System**
@@ -96,14 +104,16 @@ Creates targeted content including:
 
 ## 📋 **Available Document Types**
 
-- **Sales Enablement Kits** - Comprehensive sales materials
-- **Case Studies** - Real-world success stories
-- **Solution Briefs** - Feature overview and benefits
-- **ROI Calculators** - Cost-benefit analysis
-- **Implementation Guides** - Deployment and setup
-- **Technical Specifications** - Detailed technical information
-- **Competitive Analysis** - Market positioning
-- **Customer Success Stories** - Testimonials and results
+### **🎯 Sales Enablement Kits (Primary Focus)**
+- **Comprehensive sales materials** following exact structure rules
+- **11 required sections** ensuring professional quality
+- **Industry-specific customization** for targeted messaging
+- **Regional market considerations** for local relevance
+
+### **📚 Other Document Types (Future Expansion)**
+- Case Studies, Solution Briefs, ROI Calculators
+- Implementation Guides, Technical Specifications
+- Competitive Analysis, Customer Success Stories
 
 ## 💡 **Example Use Cases**
 
@@ -128,6 +138,7 @@ Creates targeted content including:
 2. **Review the structure**
    - Check `Documentation/Quick_Start_Guide.md` for detailed instructions
    - Review `Reference/Persona_Mapping.md` for all available combinations
+   - Understand `Reference/Sales_Enablement_Kit_Rules.md` for generation rules
 
 3. **Generate your first document**
    - Use the AI assistant with persona combinations
@@ -137,8 +148,7 @@ Creates targeted content including:
 ### **For AI Assistant:**
 Simply request:
 ```
-"Create APM documentation for BFSI in India. 
-Please generate a Sales Enablement Kit and Case Study."
+"Create a Sales Enablement Kit for APM targeting BFSI in India"
 ```
 
 ## 📊 **Sample Output**
@@ -171,12 +181,18 @@ Please generate a Sales Enablement Kit and Case Study."
 - Addresses decision-maker concerns
 - Includes competitive advantages
 
+### **✅ Rule-Based Quality**
+- Comprehensive generation rules
+- Consistent structure and formatting
+- Professional appearance guaranteed
+
 ## 🔧 **Technical Requirements**
 
 - **AI Assistant**: Compatible with AI tools that can read and analyze text files
 - **File Format**: Markdown (.md) for easy editing and version control
 - **Structure**: Organized folder hierarchy for easy navigation
 - **Templates**: Consistent formatting across all document types
+- **Rules**: Master rule file ensures quality and consistency
 
 ## 🤝 **Contributing**
 
@@ -186,6 +202,7 @@ This project is designed to be easily extensible:
 2. **Extend Templates**: Add new document type templates
 3. **Improve Content**: Enhance existing persona descriptions
 4. **Add Features**: Suggest new automation capabilities
+5. **Enhance Rules**: Improve generation rules and guidelines
 
 ## 📈 **Future Enhancements**
 
@@ -193,6 +210,7 @@ This project is designed to be easily extensible:
 - **Dynamic Templates** - AI-generated custom templates
 - **Integration APIs** - Connect with CRM and marketing tools
 - **Analytics Dashboard** - Track document performance and usage
+- **Additional Document Types** - Expand beyond Sales Enablement Kits
 
 ## 🏆 **Success Metrics**
 
@@ -200,6 +218,7 @@ This project is designed to be easily extensible:
 - **Quality Improvement**: 100% industry-specific customization
 - **Consistency**: Standardized format across all documents
 - **Scalability**: Easy to add new industries and regions
+- **Professional Output**: Rule-based quality assurance
 
 ## 📞 **Support & Contact**
 

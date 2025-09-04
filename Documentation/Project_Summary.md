@@ -7,10 +7,12 @@
 - **AI_Reference_Guide.md** - My reference for generating documents
 - **Quick_Start_Guide.md** - Simple guide for you to get started
 - **Persona_Mapping.md** - All possible persona combinations
+- **Sales_Enablement_Kit_Rules.md** - Master rules for document generation
 - **Project_Summary.md** - This summary file
 
 ### 📁 **Organized Folders**
 - **Persona/** - All your existing persona files (unchanged)
+- **Reference/** - AI reference materials and generation rules
 - **Templates/** - Document templates for consistency
 - **Documents/** - Where generated documents will be stored
 - **Output/** - Final documents ready for use
@@ -28,19 +30,19 @@
 - **Regional Focus**: Considers local market conditions
 - **Feature-Aligned**: Highlights relevant technical capabilities
 - **Compliance-Ready**: Addresses regulatory requirements
+- **Rule-Based Quality**: Follows exact structure and formatting rules
 
 ## 🚀 How to Use It Now
 
 ### **Simple Request Format:**
 ```
-"I want [FEATURE] documentation for [INDUSTRY] in [REGION]. 
-Please create [DOCUMENT TYPES]."
+"I want a Sales Enablement Kit for [FEATURE] targeting [INDUSTRY] in [REGION]"
 ```
 
 ### **Example Requests:**
-1. **"Create APM documentation for BFSI in India"**
-2. **"Generate NetRoute Sales Enablement Kit for Telco in MiddleEast"**
-3. **"Create LogMonitoring Case Study for Healthcare in SouthAsia"**
+1. **"Create a Sales Enablement Kit for APM targeting BFSI in India"**
+2. **"Generate a Sales Enablement Kit for NetRoute targeting Telco in MiddleEast"**
+3. **"Create a Sales Enablement Kit for LogMonitoring targeting Healthcare in SouthAsia"**
 
 ### **Available Features:**
 - APM (Application Performance Monitoring)
@@ -62,21 +64,19 @@ Please create [DOCUMENT TYPES]."
 - India, MiddleEast, SouthAsia, Africa
 
 ### **Available Documents:**
-- Sales Enablement Kits
-- Case Studies
-- Solution Briefs
-- ROI Calculators
-- Implementation Guides
-- Technical Specifications
-- Competitive Analysis
-- Customer Success Stories
+- **Sales Enablement Kits** (Primary focus - fully automated)
+- Case Studies (Future expansion)
+- Solution Briefs (Future expansion)
+- ROI Calculators (Future expansion)
+- Implementation Guides (Future expansion)
 
 ## 🔧 What Happens When You Make a Request
 
 1. **I Read Personas**: I analyze both the feature and industry/regional personas
-2. **I Combine Insights**: I merge technical capabilities with business needs
+2. **I Follow Rules**: I use the master rules file for exact structure and requirements
 3. **I Generate Content**: I create documents that speak directly to their challenges
 4. **I Customize Everything**: Every section is tailored to their specific situation
+5. **I Ensure Quality**: I verify all requirements are met before delivery
 
 ## 📊 **Persona Combinations Available**
 
@@ -95,9 +95,10 @@ Please create [DOCUMENT TYPES]."
 
 ### **For You:**
 - **No More Generic Content**: Every document is targeted and relevant
-- **Faster Generation**: I can create multiple documents quickly
-- **Consistent Quality**: Templates ensure professional formatting
+- **Faster Generation**: I can create Sales Enablement Kits quickly
+- **Consistent Quality**: Rules ensure professional formatting
 - **Easy Management**: Organized folder structure
+- **Rule-Based System**: No more explaining what you want
 
 ### **For Your Audience:**
 - **Relevant Pain Points**: Addresses their specific challenges
@@ -109,23 +110,25 @@ Please create [DOCUMENT TYPES]."
 
 Just tell me what you need! For example:
 
-> "I want APM documentation for BFSI in India. Please create a Sales Enablement Kit and Case Study."
+> "I want a Sales Enablement Kit for APM targeting BFSI in India."
 
 Or:
 
-> "Generate NetRoute documentation for Telco in MiddleEast - I need a Solution Brief and ROI Calculator."
+> "Generate a Sales Enablement Kit for NetRoute targeting Telco in MiddleEast."
 
 ## 📞 **Need Help?**
 
-- **Quick Start**: Check `Quick_Start_Guide.md`
-- **All Combinations**: Review `Persona_Mapping.md`
-- **Technical Details**: See `AI_Reference_Guide.md`
+- **Quick Start**: Check `Documentation/Quick_Start_Guide.md`
+- **All Combinations**: Review `Reference/Persona_Mapping.md`
+- **Generation Rules**: See `Reference/Sales_Enablement_Kit_Rules.md`
 - **Project Overview**: Read `README.md`
 
 ---
 
 ## 🎉 **You're All Set!**
 
-Your documentation automation project is now perfectly organized and ready to generate targeted, professional content for any combination of features, industries, and regions. 
+Your documentation automation project is now perfectly organized and ready to generate targeted, professional Sales Enablement Kits for any combination of features, industries, and regions. 
 
-**No more generic documentation - every piece of content will be customized for your specific audience!** 🎯✨
+**The rule-based system ensures every document maintains the same professional quality and structure!** 🎯✨
+
+**Just specify your combination and I'll generate a complete Sales Enablement Kit automatically!** 🚀
