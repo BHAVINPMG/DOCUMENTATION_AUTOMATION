@@ -1,5 +1,9 @@
 # Persona Mapping Guide
 
+## Folder Structure
+- **Feature_Personas/**: Contains technical capability personas (APM, NetRoute, NCM, etc.)
+- **Location_Personas/**: Contains industry and regional personas (BFSI_India, IT-ITES_MiddleEast, etc.)
+
 ## Feature Personas (Technical Capabilities)
 
 ### 1. APM (Application Performance Monitoring)
