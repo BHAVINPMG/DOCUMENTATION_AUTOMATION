@@ -51,14 +51,13 @@ Based on the NetRoute Sales Enablement Kit PDF structure provided, which include
 - **Regional Context**: Include market-specific considerations where applicable
 
 ### **5. 💡 Customer Pain Points Solved**
-- **Pain Point 1**: Industry-specific challenge with regional context
-- **Pain Point 2**: User complaints can't be traced to root cause
-- **Pain Point 3**: We lack visibility across [specific area]
-- **Pain Point 4**: We can't proactively catch [specific issues]
-- **Pain Point 5**: Compliance and regulatory challenges
-- **Solutions**: Feature-specific solutions for each pain point
-- **Industry Examples**: Real-world scenarios from target industry
-- **Regional Considerations**: Market-specific challenges and solutions
+- **Pain Points**: Extract ALL relevant pain points from the feature persona file
+- **Feature-Specific**: Each pain point must be directly related to the specific feature (APM, NetRoute, etc.)
+- **Persona-Driven**: Use actual pain points from the feature persona, not generic categories
+- **Industry Context**: Apply pain points to the target industry and regional market
+- **Solutions**: Feature-specific solutions that directly address each extracted pain point
+- **Real Examples**: Industry-specific scenarios that demonstrate how the feature solves each pain point
+- **No Limits**: Include as many pain points as are relevant from the persona file
 
 ### **6. 👥 Target Personas**
 - **Table Format**: 3 columns (Persona, Key Pain Point, Value Module Delivers)
@@ -111,11 +110,13 @@ Based on the NetRoute Sales Enablement Kit PDF structure provided, which include
 - **Regional Persona**: Must be one of the 4 available regions (India, MiddleEast, SouthAsia, Africa)
 
 ### **Content Customization Rules**
-1. **Industry-Specific Language**: Use terminology and examples relevant to the target industry
-2. **Regional Considerations**: Include market conditions, compliance requirements, and local examples
-3. **Feature Alignment**: Ensure all content aligns with the specific feature's capabilities
-4. **Pain Point Relevance**: Address real challenges faced by the target industry
-5. **ROI Context**: Provide examples relevant to the regional market conditions
+1. **Feature-First Approach**: All content must be primarily feature-specific, not location-specific
+2. **Persona-Driven Content**: Extract pain points, challenges, and benefits directly from feature persona files
+3. **Industry Application**: Apply feature capabilities to the target industry context
+4. **Regional Adaptation**: Adapt feature benefits to regional market conditions (secondary consideration)
+5. **Pain Point Extraction**: Use ALL relevant pain points from feature persona, not limited categories
+6. **Feature Capabilities**: Focus on what the specific feature does, not generic monitoring benefits
+7. **ROI Context**: Provide examples relevant to the feature's specific value proposition
 
 ### **Tone and Style Requirements**
 - **Professional**: Business-appropriate language
@@ -152,10 +153,11 @@ Based on the NetRoute Sales Enablement Kit PDF structure provided, which include
 ## 🔄 **Generation Process Rules**
 
 ### **Step 1: Persona Analysis**
-1. Read and analyze the feature persona file
-2. Read and analyze the industry/regional persona file
-3. Extract key pain points, challenges, and business context
-4. Identify relevant use cases and examples
+1. **Primary Focus**: Read and analyze the feature persona file thoroughly
+2. **Extract Feature-Specific Content**: Get ALL pain points, challenges, capabilities, and benefits from feature persona
+3. **Secondary Focus**: Read and analyze the industry/regional persona file for context
+4. **Apply Industry Context**: Apply feature capabilities to target industry scenarios
+5. **Regional Adaptation**: Adapt feature benefits to regional market conditions (if relevant)
 
 ### **Step 2: Content Creation**
 1. Follow the exact structure defined above
@@ -199,7 +201,8 @@ Documents/
 - [ ] Content is industry-specific and relevant to target market
 - [ ] Regional considerations are included throughout
 - [ ] Feature capabilities are accurately described with industry context
-- [ ] Pain points address real industry challenges with regional relevance
+- [ ] Pain points are extracted directly from feature persona file (feature-specific)
+- [ ] Pain points address real feature-specific challenges with industry application
 - [ ] Examples are relevant to the target audience and market
 - [ ] Demo Walkthrough includes all 6 Key Demo Highlights with specific examples
 - [ ] Formatting is consistent and professional matching reference format
@@ -218,10 +221,13 @@ Documents/
 
 1. **Skip Required Sections**: All 10 sections must be included
 2. **Generic Content**: No generic, non-customized content
-3. **Inconsistent Formatting**: Maintain consistent style throughout
-4. **Technical Inaccuracies**: All technical claims must be accurate
-5. **Industry Mismatch**: Content must match the target industry
-6. **Regional Irrelevance**: Must include regional considerations
+3. **Limit Pain Points**: Do NOT artificially limit pain points to 5 - use ALL relevant ones from persona
+4. **Location-First Approach**: Do NOT prioritize location over feature-specific content
+5. **Generic Pain Points**: Do NOT use generic monitoring pain points - use feature-specific ones
+6. **Inconsistent Formatting**: Maintain consistent style throughout
+7. **Technical Inaccuracies**: All technical claims must be accurate
+8. **Industry Mismatch**: Content must match the target industry
+9. **Regional Irrelevance**: Must include regional considerations
 
 ## 🎯 **Success Criteria**
 

@@ -109,11 +109,12 @@ All generated Sales Enablement Kits:
 ## 🔄 **Generation Rules**
 
 The AI assistant follows these rules exactly:
-1. **Read and analyze** both feature and industry/regional personas
-2. **Follow the master rules file** for structure and requirements
-3. **Customize content** for the specific industry and region
-4. **Ensure quality** using the built-in checklist
-5. **Save in the correct folder** with proper naming
+1. **Feature-First Approach**: Read and analyze feature persona file as primary source
+2. **Extract ALL Pain Points**: Use ALL relevant pain points from feature persona (no limits)
+3. **Apply Industry Context**: Apply feature capabilities to target industry scenarios
+4. **Follow the master rules file** for structure and requirements
+5. **Ensure quality** using the built-in checklist
+6. **Save in the correct folder** with proper naming
 
 ## 📁 **Related Files**
 
